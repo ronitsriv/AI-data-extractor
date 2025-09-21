@@ -1,6 +1,6 @@
 import streamlit as st
 import spacy
-import pandas as pd
+import pandas as   pd
 
 # Load spaCy model
 seer = spacy.load("en_core_web_sm")
